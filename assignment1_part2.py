@@ -8,4 +8,4 @@ class Book:
 
 
 if __name__ == "__main__":
-    print("this is a assignment 1 part 2")
+    print("This is a assignment 1 part 2")
